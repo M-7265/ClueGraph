@@ -2,8 +2,6 @@
 
 An interactive AI detective game demonstrating **Agentic Retrieval-Augmented Generation (RAG)**. The AI autonomously searches through case files, forms hypotheses, and reasons step-by-step to solve mysteries — all visualized live on an animated evidence board.
 
-![ClueGraph Evidence Board](https://img.shields.io/badge/AI-Agentic_RAG-blueviolet) ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688) ![Next.js](https://img.shields.io/badge/Frontend-Next.js-black) ![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3.1-orange)
-
 ---
 
 ## ✨ Features
